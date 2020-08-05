@@ -1,7 +1,5 @@
 class Dog
-  def initialize(name)
-    @name = name
-  end
+  
   #setter
   def name
     @name 
